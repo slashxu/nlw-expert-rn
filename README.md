@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/slashxu/README-template?style=for-the-badge)
 
 <h3 align="center">
-<img src="./screenshots/01.PNG?raw=true" alt="img01" width="180px"/>
+<img src="./screenshots/01.png?raw=true" alt="img01" width="180px"/>
 </h3>
 
 > Projeto em React-Native desevolvido durnte o evento da Rocketseat.
